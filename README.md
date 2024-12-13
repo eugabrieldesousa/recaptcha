@@ -1,1 +1,1 @@
-# recaptcha
+# Implements recaptcha validation
